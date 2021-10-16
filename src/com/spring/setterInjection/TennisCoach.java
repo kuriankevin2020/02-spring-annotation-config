@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.setterInjection;
+package com.spring.setterInjection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

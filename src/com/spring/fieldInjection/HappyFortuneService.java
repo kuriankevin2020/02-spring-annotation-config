@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.fieldInjection;
+package com.spring.fieldInjection;
 
 import org.springframework.stereotype.Component;
 

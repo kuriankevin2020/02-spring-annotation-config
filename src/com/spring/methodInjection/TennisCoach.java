@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.methodInjection;
+package com.spring.methodInjection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

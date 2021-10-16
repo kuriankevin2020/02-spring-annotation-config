@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.setterInjection;
+package com.spring.setterInjection;
 
 public interface FortuneService {
 

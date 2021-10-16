@@ -1,4 +1,4 @@
-package com.spring.demo.scope;
+package com.spring.scope;
 
 public interface FortuneService {
 

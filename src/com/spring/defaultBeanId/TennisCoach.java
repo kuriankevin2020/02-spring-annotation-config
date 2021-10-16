@@ -1,4 +1,4 @@
-package com.spring.demo.component.defaultBeanId;
+package com.spring.defaultBeanId;
 
 import org.springframework.stereotype.Component;
 

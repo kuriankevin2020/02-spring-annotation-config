@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.propertyFile;
+package com.spring.value;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -10,7 +10,7 @@ public class AnnotationDemoApp {
 		
 		// read spring config file
 		ClassPathXmlApplicationContext context =
-				new ClassPathXmlApplicationContext("propertyFile-applicationContext.xml");
+				new ClassPathXmlApplicationContext("value-applicationContext.xml");
 		
 		// get the bean from spring container
 		TennisCoach theCoach = context.getBean("tennisCoach", TennisCoach.class);

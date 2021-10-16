@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.methodInjection;
+package com.spring.methodInjection;
 
 public interface Coach {
 

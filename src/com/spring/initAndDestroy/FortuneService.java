@@ -1,4 +1,4 @@
-package com.spring.demo.initAndDestroy;
+package com.spring.initAndDestroy;
 
 public interface FortuneService {
 

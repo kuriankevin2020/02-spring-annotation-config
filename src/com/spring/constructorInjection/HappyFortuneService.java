@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.constructorInjection;
+package com.spring.constructorInjection;
 
 import org.springframework.stereotype.Component;
 

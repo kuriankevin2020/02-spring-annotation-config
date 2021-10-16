@@ -12,12 +12,12 @@
 	- For more detailed logs, set values to "FINEST"
 	- For info on logging levels, see: http://www.vogella.com/tutorials/Logging/article.html
  	-->
-    <bean id="myLoggerConfig" class="com.spring.demo.logger.MyLoggerConfig" init-method="initLogger">
+    <bean id="myLoggerConfig" class="com.spring.logger.MyLoggerConfig" init-method="initLogger">
     	<property name="rootLoggerLevel" value="FINE" />
     	<property name="printedLoggerLevel" value="FINE"/>
     </bean>
     
     <!-- add entry to enable component scanning -->
-    <context:component-scan base-package="package com.spring.demo.component.customBeanId" />
+    <context:component-scan base-package="package com.spring.customBeanId" />
     
 </beans>

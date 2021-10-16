@@ -1,4 +1,4 @@
-package com.spring.demo.component.customBeanId;
+package com.spring.customBeanId;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

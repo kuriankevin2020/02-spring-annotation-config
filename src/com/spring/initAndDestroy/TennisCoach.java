@@ -1,4 +1,4 @@
-package com.spring.demo.initAndDestroy;
+package com.spring.initAndDestroy;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

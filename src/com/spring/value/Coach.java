@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.propertyFile;
+package com.spring.value;
 
 public interface Coach {
 

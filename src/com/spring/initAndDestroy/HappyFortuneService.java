@@ -1,4 +1,4 @@
-package com.spring.demo.initAndDestroy;
+package com.spring.initAndDestroy;
 
 import org.springframework.stereotype.Component;
 

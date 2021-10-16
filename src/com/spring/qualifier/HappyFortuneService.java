@@ -1,4 +1,4 @@
-package com.spring.demo.autowired.qualifier;
+package com.spring.qualifier;
 
 import org.springframework.stereotype.Component;
 
